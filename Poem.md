@@ -1,7 +1,7 @@
 
 #Dust
 
-    By *Sara Teasdale*
+    By Sara Teasdale
 
 
 
