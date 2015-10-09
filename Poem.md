@@ -1,10 +1,6 @@
 
 #Dust
 
-   By -- *Sara Teasdale*
-
-
-
 _When_ I went to look at what had long been hidden,
 A jewel laid long ago in a secret place,
 I trembled, for I thought to see its dark deep fire,
@@ -14,5 +10,7 @@ I almost gave my life long ago for a thing
 That has gone to dust now, stinging my eyes,
 It is strange how often a heart must be broken,
 Before the years can make it wise.
+
+By *Sara Teasdale*
 
 http://www.public-domain-poetry.com/sara-teasdale/dust-1812
